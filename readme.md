@@ -1,4 +1,4 @@
 # Nwift API
-## A Pacakge to easily interact with nwift api
+## A powerful, efficient and fluent JavaScript library to interact with the Nwift API
 
-# ❗ UNDERDEVELOPMENT STAGE! ❗
+# ❗UNDER DEVELOPMENT❗
