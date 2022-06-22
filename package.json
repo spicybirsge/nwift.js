@@ -1,5 +1,5 @@
 {
-  "name": "@nwift/api",
+  "name": "nwift.js",
   "version": "0.0.1",
   "description": "npm pacakge to interact with nwift api!",
   "main": "src/index.js",
